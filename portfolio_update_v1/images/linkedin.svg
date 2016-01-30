@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="96px" height="96px" viewBox="0 0 96 96" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.3 (12081) - http://www.bohemiancoding.com/sketch -->
+    <title>linkedin</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="linkedin" sketch:type="MSLayerGroup">
+            <circle id="Oval" fill="#6FC057" sketch:type="MSShapeGroup" cx="48" cy="48" r="48"></circle>
+            <path d="M64.2695,23.5 L31.7305,23.5 C27.204,23.5 23.5,27.204 23.5,31.7305 L23.5,64.2695 C23.5,68.796 27.204,72.5 31.7305,72.5 L64.2695,72.5 C68.796,72.5 72.5,68.796 72.5,64.2695 L72.5,31.7305 C72.5,27.204 68.796,23.5 64.2695,23.5 L64.2695,23.5 Z M41.875,63.3125 L35.75,63.3125 L35.75,41.875 L41.875,41.875 L41.875,63.3125 L41.875,63.3125 Z M38.8125,38.8125 C37.121,38.8125 35.75,37.4415 35.75,35.75 C35.75,34.0585 37.121,32.6875 38.8125,32.6875 C40.504,32.6875 41.875,34.0585 41.875,35.75 C41.875,37.4415 40.504,38.8125 38.8125,38.8125 L38.8125,38.8125 Z M63.3125,63.3125 L57.1875,63.3125 L57.1875,51.0625 C57.1875,49.371 55.8165,48 54.125,48 C52.4335,48 51.0625,49.371 51.0625,51.0625 L51.0625,63.3125 L44.9375,63.3125 L44.9375,41.875 L51.0625,41.875 L51.0625,45.678 C52.3255,43.943 54.257,41.875 56.422,41.875 C60.228,41.875 63.313,45.303 63.313,49.531 L63.3125,63.3125 L63.3125,63.3125 Z" id="Shape" fill="#F7F7F7" sketch:type="MSShapeGroup"></path>
+        </g>
+    </g>
+</svg>
